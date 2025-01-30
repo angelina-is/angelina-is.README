@@ -1,6 +1,7 @@
 # angelina-is.README
-### Hi! I'm Angie!
+### Hi I'm Angie 👋!
 
 
-Happy to see you here!
+I'm currently a stats & data science student and I'm glad to see you here!
+
 💌 angelinasong@ucsb.edu
